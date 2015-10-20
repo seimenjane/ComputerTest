@@ -9,3 +9,6 @@ C:\Users\seime\Desktop\学业考\2016\test\config\obj\Debug\config.pdb
 C:\Users\seime\Desktop\学业考\2016\test\config\bin\Debug\service.exe
 C:\Users\seime\Desktop\学业考\2016\test\config\bin\Debug\service.pdb
 C:\Users\seime\Desktop\学业考\2016\test\config\bin\Debug\config.exe.config
+C:\Users\seime\Documents\GitHub\ComputerTest\config\bin\Debug\config.exe.config
+C:\Users\seime\Documents\GitHub\ComputerTest\config\obj\Debug\config.exe
+C:\Users\seime\Documents\GitHub\ComputerTest\config\obj\Debug\config.pdb

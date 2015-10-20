@@ -170,7 +170,8 @@ namespace config
 
         private void ipTest_Click(object sender, EventArgs e)//地址测试按钮
         {
-            using (ChannelFactory<service.ItestServiceContract> channelFactory = new ChannelFactory<service.ItestServiceContract>(new WSHttpBinding(), "http://10.29.114.251:8000/testServices"))
+            using (ChannelFactory<service.ItestServiceContract> channelFactory =
+                new ChannelFactory<service.ItestServiceContract>(new WSHttpBinding(), "http://10.29.114.251:8000/testServices"))
             {
                 service.ItestServiceContract proxy = channelFactory.CreateChannel();
                 using (proxy as IDisposable)
