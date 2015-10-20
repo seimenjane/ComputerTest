@@ -1,0 +1,11 @@
+C:\Users\seime\Desktop\学业考\2016\test\config\bin\Debug\config.exe
+C:\Users\seime\Desktop\学业考\2016\test\config\bin\Debug\config.pdb
+C:\Users\seime\Desktop\学业考\2016\test\config\obj\Debug\config.csprojResolveAssemblyReference.cache
+C:\Users\seime\Desktop\学业考\2016\test\config\obj\Debug\config.setupWindow.resources
+C:\Users\seime\Desktop\学业考\2016\test\config\obj\Debug\config.Properties.Resources.resources
+C:\Users\seime\Desktop\学业考\2016\test\config\obj\Debug\config.csproj.GenerateResource.Cache
+C:\Users\seime\Desktop\学业考\2016\test\config\obj\Debug\config.exe
+C:\Users\seime\Desktop\学业考\2016\test\config\obj\Debug\config.pdb
+C:\Users\seime\Desktop\学业考\2016\test\config\bin\Debug\service.exe
+C:\Users\seime\Desktop\学业考\2016\test\config\bin\Debug\service.pdb
+C:\Users\seime\Desktop\学业考\2016\test\config\bin\Debug\config.exe.config
